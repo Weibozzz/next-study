@@ -67,25 +67,24 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = 20);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "/Users/liuweibo/ali/next-demo/node_modules/_next@6.0.3@next/dist/pages/_app.js":
-/***/ (function(module, exports) {
+/***/ 20:
+/***/ (function(module, exports, __webpack_require__) {
 
-module.exports = require("/Users/liuweibo/ali/next-demo/node_modules/_next@6.0.3@next/dist/pages/_app.js");
+module.exports = __webpack_require__(21);
+
 
 /***/ }),
 
-/***/ 0:
-/***/ (function(module, exports, __webpack_require__) {
+/***/ 21:
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__("/Users/liuweibo/ali/next-demo/node_modules/_next@6.0.3@next/dist/pages/_app.js");
-
+module.exports = require("/Users/liuweibo/ali/next-study/node_modules/_next@6.1.0@next/dist/pages/_error.js");
 
 /***/ })
 
 /******/ });
-//# sourceMappingURL=_app.js.map
